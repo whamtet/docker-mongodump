@@ -1,4 +1,4 @@
-FROM mongo:3.4
+FROM mongo:4.0
 MAINTAINER Ilya Stepanov <dev@ilyastepanov.com>
 
 RUN apt-get update && \
